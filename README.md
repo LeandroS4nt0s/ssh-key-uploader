@@ -73,7 +73,7 @@ $ ssh-key-uploader init
 
 ## 🎨 SSH Key Customization
 
-Additionally, the machine and user name will be included in the key's title on GitHub, making it easier to organize and identify keys associated with different devices.
+Additionally, the machine name will be included in the key's title on GitHub, making it easier to organize and identify keys associated with different devices.
 
 ## 📝 License
 
