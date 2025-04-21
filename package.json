@@ -1,6 +1,6 @@
 {
   "name": "ssh-key-uploader",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Secure GitHub SSH Key Uploader using OAuth and Device Flow",
   "bin": {
     "ssh-key-uploader": "./bin/index.js"
