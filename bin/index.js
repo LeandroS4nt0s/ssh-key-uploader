@@ -1,4 +1,3 @@
-#!/usr/bin/env node
 import { main } from "../lib/main.js";
 
 const [, , command] = process.argv;
