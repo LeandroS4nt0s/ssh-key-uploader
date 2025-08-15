@@ -1,13 +1,33 @@
 {
   "name": "ssh-key-uploader",
-  "version": "1.0.3",
-  "description": "Secure GitHub SSH Key Uploader using OAuth and Device Flow",
+  "version": "1.0.0",
+  "description": "Easily upload your GitHub SSH keys securely via OAuth Device Flow.",
+  "keywords": [
+    "ssh",
+    "github",
+    "oauth",
+    "ssh-key",
+    "developer",
+    "cli",
+    "automation"
+  ],
   "bin": {
     "ssh-key-uploader": "./bin/index.js"
   },
   "type": "module",
   "author": "Leandro Santos",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeandroS4nt0s/ssh-key-uploader"
+  },
+  "homepage": "https://github.com/LeandroS4nt0s/ssh-key-uploader#readme",
+  "bugs": {
+    "url": "https://github.com/LeandroS4nt0s/ssh-key-uploader/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
     "axios": "^1.6.7",
     "chalk": "^5.4.1",
